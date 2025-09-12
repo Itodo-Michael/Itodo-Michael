@@ -19,7 +19,6 @@ I believe in using my skills to protect data and ensure privacy in an increasing
 **Concepts:** Risk Assessment, Vulnerability Management, Security Policies, OWASP Top 10
 
 ## How to Reach Me
-- **:
 - **Email**:itodomichael00@gmail.com
 - **TikTok**:it_kelvin02
 - **IG**:it_kelvin02
