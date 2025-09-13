@@ -12,11 +12,10 @@ I believe in using my skills to protect data and ensure privacy in an increasing
 - **Practicing**: My skills on platforms like **TryHackMe**, **HackTheBox**, or **OverTheWire**.
 
 ## Tech Stack & Security Tools
-**Operating Systems:** Linux (Kali, Parrot OS), Windows
 **Networking:** TCP/IP, Firewalls, VPN, IDS/IPS
-**Security Tools:** Wireshark, Nmap, Metasploit, Burp Suite, John the Ripper
-**Programming/Scripting:** Python, Bash, PowerShell, c
-**Concepts:** Risk Assessment, Vulnerability Management, Security Policies, OWASP Top 10
+**Security Tools**: Wireshark, Nmap, Metasploit, Burp Suite, John the Ripper
+**Programming/Scripting**: Python, Bash, PowerShell, c
+**Concepts**: Risk Assessment, Vulnerability Management, Security Policies, OWASP Top 10
 
 ## How to Reach Me
 - **Email**:itodomichael00@gmail.com
