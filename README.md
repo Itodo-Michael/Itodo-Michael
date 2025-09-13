@@ -30,7 +30,7 @@ I believe in using my skills to protect data and ensure privacy in an increasing
 
 
 ## GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Itodo-Michael&show_icons=true&theme=dark" alt="Itodo-Michael's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itodo-Michael&layout=compact&theme=dark" alt="Top Languages" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Itodo-Michael&show_icons=true&theme=gruvbox" alt="Itodo-Michael's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itodo-Michael&layout=compact&theme=dark" alt="Top Languages" /> </p>
 
 ## How to Reach Me
 - **Email**:itodomichael00@gmail.com
