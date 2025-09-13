@@ -12,7 +12,7 @@ I believe in using my skills to protect data and ensure privacy in an increasing
 - **Practicing**: My skills on platforms like **TryHackMe**, **HackTheBox**, or **OverTheWire**.
 
 ## Tech Stack & Security Tools
-**Networking:** TCP/IP, Firewalls, VPN, IDS/IPS
+**Networking**: TCP/IP, Firewalls, VPN, IDS/IPS
 **Security Tools**: Wireshark, Nmap, Metasploit, Burp Suite, John the Ripper
 **Programming/Scripting**: Python, Bash, PowerShell, c
 **Concepts**: Risk Assessment, Vulnerability Management, Security Policies, OWASP Top 10
